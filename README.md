@@ -27,9 +27,9 @@ We use Quora Question Pairs dataset. It contains 6 columns:
 
 ## Model Architecture
 Built using Keras Sequential
-    - Input layer (316 features)
-    - Dense → ReLU → Dropout → BatchNorm layers
-    - Output layer (Sigmoid for binary classification)
+   - Input layer (316 features)
+   - Dense → ReLU → Dropout → BatchNorm layers
+   - Output layer (Sigmoid for binary classification)
 
 ## Model Training and Evaluation
 - The model was trained on 100,000 rows of data for 100 epochs.
