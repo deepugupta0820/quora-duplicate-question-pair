@@ -284,7 +284,7 @@ http://127.0.0.1:8000/docs
 
 Open another terminal:
 ```bash
-streamlit run streamlit_app.py
+streamlit run streamlit_UI.py
 ```
 The Streamlit UI will normally be available at:
 ```bash
